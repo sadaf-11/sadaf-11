@@ -93,23 +93,9 @@ I'm a passionate **Full-Stack Web Developer** who loves building modern and scal
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
 
-# 📌 Featured Projects
 
-🚀 Full-Stack MERN Applications  
-🔐 Authentication & Authorization Systems  
-📹 Video & Playlist Management APIs  
-💬 Nested Comment & Reply Systems  
-🌐 Responsive React Frontends  
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" style="width: 100%; height: 2px;" />
 
 # 📊 My GitHub Stats
-
-
-
-
-
-
 
 <p align="center">
   <img 
